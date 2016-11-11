@@ -1,0 +1,6 @@
+LIBRARY	"DialParserPrefixHash"
+EXPORTS
+	PHExtFormatPhoneNumber
+	PreprocessDialRequest	
+	IsImmediateDialRequestRequired
+	
